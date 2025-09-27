@@ -44,3 +44,12 @@ int main() {
 
     return 0;
 }
+/*OUTPUT:
+Phantom Black
+Samsung
+Galaxy S21
+SIM: Dual SIM
+BATTERY: 4000 mAh
+
+
+=== Code Execution Successful ===*/
