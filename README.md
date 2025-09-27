@@ -22,6 +22,9 @@ Inheritance is a feature or a process in which, new classes are created from the
 
 ●	Hierarchical inheritance🡪 In this type of inheritance, more than one subclass is inherited from a single base class. i.e. more than one derived class is created from a single base class.
 
+# Algorithm:
+
+
 
 
 
