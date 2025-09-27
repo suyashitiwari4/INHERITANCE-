@@ -43,3 +43,11 @@ int main() {
 
     return 0;
 }
+/*OUTPUT:
+Color: Red
+Color: Red
+Area formula: πr^2
+Area formula: length × width
+
+
+=== Code Execution Successful ===*/
